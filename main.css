@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+img{
+    width: 250px;
+}
+.searchBox{
+    margin: 0 auto;
+    margin-top:4em;
+    width: 18em;
+}
+.searchBox input{
+    width: 16em;
+    height: 2em;
+    text-align: center;
+}
+.searchBox button{
+    border: none;
+    width: 5em;
+    height: 2.5em;
+    background-color: #666;
+    color: #ffffff
+}
+.userContend{
+    margin: 0 auto;
+    width: 300px;
+    margin-top: 10px;
+    font-size: 18px;
+    font-family: sans-serif;
+    letter-spacing: 1px
+}
